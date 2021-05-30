@@ -1,10 +1,5 @@
+
 [Adblock Plus 2.0]
-||Support.cloudflare.com^
-||Support.cloudflare.com^$popup
-||Support.cloudflare.com^$third-party
-||Www.cloudflare.com^
-||Www.cloudflare.com^$popup
-||Www.cloudflare.com^$third-party
 ||ajax.cloudflare.com^
 ||ajax.cloudflare.com^$popup
 ||ajax.cloudflare.com^$third-party
@@ -85,10 +80,10 @@
 ||ivan.ns.cloudflare.com^$third-party
 ||jake.ns.cloudflare.com^
 ||jake.ns.cloudflare.com^$popup
-||jake.ns.cloudflare.com^$third-party
-||jeff.ns.cloudflare.com^
-||jeff.ns.cloudflare.com^$popup
-||jeff.ns.cloudflare.com^$third-party
+||jake.ns.cloudflare.com^$third-partyf
+||jef.ns.cloudflare.com^f
+||jef.ns.cloudflare.com^$popupf
+||jef.ns.cloudflare.com^$third-party
 ||jerry.ns.cloudflare.com^
 ||jerry.ns.cloudflare.com^$popup
 ||jerry.ns.cloudflare.com^$third-party
