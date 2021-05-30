@@ -1,3 +1,4 @@
+
 [Adblock Plus 2.0]
 ||tiles.services.mozilla.com^
 ||tiles.services.mozilla.com^$popup
@@ -35,6 +36,3 @@
 ||tbpl.mozilla.org^
 ||tbpl.mozilla.org^$popup
 ||tbpl.mozilla.org^$third-party
-||shavar.services.mozilla.com^
-||shavar.services.mozilla.com^$popup
-||shavar.services.mozilla.com^$third-party
